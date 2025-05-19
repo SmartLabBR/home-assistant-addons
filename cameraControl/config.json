@@ -1,0 +1,15 @@
+{
+  "name": "Camera Control Server",
+  "version": "1.0.0",
+  "slug": "camera_control",
+  "description": "Serviço para controle de câmeras da SmartLab",
+  "startup": "services",
+  "boot": "auto",
+  "arch": ["aarch64", "amd64"],
+  "ports": {
+    "3030/tcp": 3030
+  },
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
