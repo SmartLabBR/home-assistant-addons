@@ -1,6 +1,6 @@
 {
   "name": "Camera Control Server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "slug": "camera_control",
   "description": "Serviço para controle de câmeras da SmartLab",
   "startup": "services",
